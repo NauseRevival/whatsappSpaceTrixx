@@ -10,7 +10,7 @@
 
 4 - unzip SpaceTrixx-bot.zip
 
-6 - Spacetrix-bot/
+6 - SpaceTrix-bot/
 
 7 - pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && npm i -g cwebp && npm i -g ytdl && npm i got
 
